@@ -1,3 +1,7 @@
+# Curso: Programación orientada a objetos con JavaScript - EDteam
+
+La programación orientada a objetos es un paradigma que desde la versión ES6 puede usarse en JavaScript a través de clases. Los temas a tratar son: Clases, Objetos, tipos de objetos, constructores, métodos, propiedades, herencia y mucho mas
+
 # Programación Orientada a Objetos
 
 * Es un PARADIGMA de programación
