@@ -1,0 +1,19 @@
+{
+    "nombre" : "Carl Jr",
+    "apellidos" : "Lewis",
+    "edad" : 28,
+    "cursos" : [
+        {
+            "id" : 5,
+            "nombre" : "JavaScript"
+        },
+        {
+            "id" : 3,
+            "nombre" : "React"
+        },
+        {
+            "id" : 2,
+            "nombre" : "Node"
+        }
+    ]
+}
